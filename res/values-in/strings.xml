@@ -49,10 +49,10 @@
   <string name="label_action_volume_panel">Panel volume</string>
   <string name="label_action_clear_notifications">Bersihkan pemberitahuan</string>
   <string name="label_action_editing_smartbar">Smartbar editor</string>
-  <string name="label_action_split_screen">Belah Layar</string>
+  <string name="label_action_split_screen">Pisahkan Layar</string>
   <string name="label_action_one_handed_mode_left">Mode satu tangan (sisi kiri)</string>
   <string name="label_action_one_handed_mode_right">Mode satu tangan (sisi kanan)</string>
-  <string name="label_action_media_left">Track sebelumnya</string>
+  <string name="label_action_media_left">Trek sebelumnya</string>
   <string name="label_action_media_right">Trek berikutnya</string>
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Tindakan</string>
@@ -62,7 +62,7 @@
   <string name="label_smartbar_cancel">Batal</string>
   <string name="label_smartbar_finish">Selesai</string>
   <string name="label_smartbar_single_tap">Tekan sekali</string>
-  <string name="label_smartbar_double_tap">Ketukan ganda</string>
+  <string name="label_smartbar_double_tap">Ketuk dua kali</string>
   <string name="label_smartbar_long_press">Tekan lama</string>
   <string name="label_smartbar_icon_pack">Paket ikon</string>
   <string name="label_smartbar_icon_gallery">Galeri</string>

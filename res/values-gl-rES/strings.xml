@@ -17,6 +17,37 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_no_action">Sen acción</string>
+  <string name="label_action_settings_panel">Panel de axustes</string>
+  <string name="label_action_notification_panel">Panel de notificacións</string>
+  <string name="label_action_screenshot">Captura de pantalla</string>
+  <string name="label_action_region_screenshot">Captura de pantalla parcial</string>
+  <string name="label_action_screenrecord">Gravar a pantalla</string>
+  <string name="label_action_expanded_desktop">Escritorio expandido</string>
+  <string name="label_action_screen_off">Apagar a pantalla</string>
+  <string name="label_action_force_close_app">Forzar peche do aplicativo</string>
+  <string name="label_action_search_assistant">Asistente de procura</string>
+  <string name="label_action_google_now_on_tap">Google Now ao tocar</string>
+  <string name="label_action_voice_search">Procura con voz</string>
+  <string name="label_action_in_app_search">Procura no aplicativo</string>
+  <string name="label_action_flashlight">Lanterna</string>
+  <string name="label_action_bluetooth">Bluetooth</string>
+  <string name="label_action_wifi">WiFi</string>
+  <string name="label_action_hotspot">Punto de acceso</string>
+  <string name="label_action_last_app">Último aplicativo</string>
+  <string name="label_action_overview">Recentes</string>
+  <string name="label_action_power_menu">Menu de enerxía</string>
+  <string name="label_action_menu">Menu</string>
+  <string name="label_action_back">Volver</string>
+  <string name="label_action_home">Inicio</string>
+  <string name="label_action_ime_switcher">Alternador IME</string>
+  <string name="label_action_stop_screenpinning">Deter fixado de pantalla</string>
+  <string name="label_action_ime_down">Método de entrada cursor hacia abaixo</string>
+  <string name="label_action_ime_left">Método de entrada cursor hacia a esquerda</string>
+  <string name="label_action_ime_right">Método de entrada cursor hacia a dereita</string>
+  <string name="label_action_ime_up">Método de entrada cursor hacia arriba</string>
+  <string name="label_action_volume_panel">Panel de volume</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_cancel">Cancelar</string>
   <!-- App killed message -->
 </resources>

@@ -17,7 +17,7 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
-  <string name="label_action_no_action">Žádné akce</string>
+  <string name="label_action_no_action">Žádná akce</string>
   <string name="label_action_settings_panel">Panel nastavení</string>
   <string name="label_action_notification_panel">Panel upozornění</string>
   <string name="label_action_screenshot">Snímek obrazovky</string>
@@ -48,8 +48,8 @@
   <string name="label_action_ime_up">Vstupní metoda kurzor nahoru</string>
   <string name="label_action_volume_panel">Panel hlasitosti</string>
   <string name="label_action_clear_notifications">Vymazat oznámení</string>
-  <string name="label_action_editing_smartbar">Smartbar editor</string>
-  <string name="label_action_split_screen">Rozdělené zobrazení</string>
+  <string name="label_action_editing_smartbar">Editor chytré lišty</string>
+  <string name="label_action_split_screen">Rozdělená obrazovka</string>
   <string name="label_action_one_handed_mode_left">Režim jedné ruky (vlevo)</string>
   <string name="label_action_one_handed_mode_right">Režim jedné ruky (vpravo)</string>
   <string name="label_action_media_left">Předchozí skladba</string>
@@ -63,7 +63,7 @@
   <string name="label_smartbar_finish">Dokončit</string>
   <string name="label_smartbar_single_tap">Jeden klik</string>
   <string name="label_smartbar_double_tap">Dvojklik</string>
-  <string name="label_smartbar_long_press">Dlouhé stisknutí</string>
+  <string name="label_smartbar_long_press">Dlouhý stisk</string>
   <string name="label_smartbar_icon_pack">Balíček ikon</string>
   <string name="label_smartbar_icon_gallery">Galerie</string>
   <string name="label_smartbar_icon_color">Barva</string>

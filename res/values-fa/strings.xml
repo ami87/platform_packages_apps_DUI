@@ -17,6 +17,8 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_screenshot">عکس گرفتن از صفحه فعلی</string>
+  <string name="label_action_flashlight">چراغ قوه</string>
   <!-- Smartbar -->
   <!-- App killed message -->
 </resources>
