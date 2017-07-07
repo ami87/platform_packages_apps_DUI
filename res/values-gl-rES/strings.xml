@@ -47,7 +47,30 @@
   <string name="label_action_ime_right">Método de entrada cursor hacia a dereita</string>
   <string name="label_action_ime_up">Método de entrada cursor hacia arriba</string>
   <string name="label_action_volume_panel">Panel de volume</string>
+  <string name="label_action_clear_notifications">Limpar as notificacións</string>
+  <string name="label_action_editing_smartbar">Editor da barra intelixente</string>
+  <string name="label_action_split_screen">Dividir a pantalla</string>
+  <string name="label_action_one_handed_mode_left">Modo a unha man (lado esquerdo)</string>
+  <string name="label_action_one_handed_mode_right">Modo a unha man (lado dereito)</string>
+  <string name="label_action_media_left">Canción anterior</string>
+  <string name="label_action_media_right">Seguinte canción</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_actions">Accións</string>
+  <string name="label_smartbar_icon">Icona</string>
+  <string name="label_smartbar_add">Engadir</string>
+  <string name="label_smartbar_remove">Eliminar</string>
   <string name="label_smartbar_cancel">Cancelar</string>
+  <string name="label_smartbar_finish">Finalizado</string>
+  <string name="label_smartbar_single_tap">Un toque</string>
+  <string name="label_smartbar_double_tap">Dobre toque</string>
+  <string name="label_smartbar_long_press">Premido longo</string>
+  <string name="label_smartbar_icon_pack">Paquete de iconas</string>
+  <string name="label_smartbar_icon_gallery">Galería</string>
+  <string name="label_smartbar_icon_color">Cor</string>
+  <string name="smartbar_editor_toast_starting">Iniciando o editor de navegación</string>
+  <string name="smartbar_editor_toast_stopping">Parando o editor de navegación</string>
+  <string name="smartbar_editor_toast_unavailable">Editor de navegación non dispoñíbel</string>
+  <string name="edit_mode">Modo edición</string>
   <!-- App killed message -->
+  <string name="app_killed_message">%s matado</string>
 </resources>
