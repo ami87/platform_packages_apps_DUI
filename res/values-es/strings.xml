@@ -64,7 +64,7 @@
   <string name="label_smartbar_single_tap">Un toque</string>
   <string name="label_smartbar_double_tap">Doble toque</string>
   <string name="label_smartbar_long_press">Pulsación larga</string>
-  <string name="label_smartbar_icon_pack">Pack de iconos</string>
+  <string name="label_smartbar_icon_pack">Paquete de iconos</string>
   <string name="label_smartbar_icon_gallery">Galería</string>
   <string name="label_smartbar_icon_color">Color</string>
   <string name="label_smartbar_icon_reset">Restablecer</string>

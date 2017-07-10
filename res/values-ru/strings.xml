@@ -42,10 +42,10 @@
   <string name="label_action_home">Домой</string>
   <string name="label_action_ime_switcher">Выбор способа ввода</string>
   <string name="label_action_stop_screenpinning">Остановить закрепление экрана</string>
-  <string name="label_action_ime_down">Способ ввода курсор вниз</string>
-  <string name="label_action_ime_left">Способ ввода курсор влево</string>
-  <string name="label_action_ime_right">Способ ввода курсор вправо</string>
-  <string name="label_action_ime_up">Способ ввода курсор вверх</string>
+  <string name="label_action_ime_down">Курсор вниз при вводе</string>
+  <string name="label_action_ime_left">Курсор влево при вводе</string>
+  <string name="label_action_ime_right">Курсор вправо при вводе</string>
+  <string name="label_action_ime_up">Курсор вверх при вводе</string>
   <string name="label_action_volume_panel">Панель громкости</string>
   <string name="label_action_clear_notifications">Очистить уведомления</string>
   <string name="label_action_editing_smartbar">Редактор Smartbar</string>
@@ -67,7 +67,7 @@
   <string name="label_smartbar_icon_pack">Набор значков</string>
   <string name="label_smartbar_icon_gallery">Галерея</string>
   <string name="label_smartbar_icon_color">Цвет</string>
-  <string name="label_smartbar_icon_reset">Сбросить</string>
+  <string name="label_smartbar_icon_reset">Сброс</string>
   <string name="smartbar_editor_toast_starting">Запуск редактора панели навигации</string>
   <string name="smartbar_editor_toast_stopping">Остановка редактора панели навигации</string>
   <string name="smartbar_editor_toast_unavailable">Редактор панели навигации недоступен</string>
