@@ -17,6 +17,8 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_back">Назад</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_cancel">Отказ</string>
   <!-- App killed message -->
 </resources>

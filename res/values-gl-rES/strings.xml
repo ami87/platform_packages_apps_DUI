@@ -67,6 +67,7 @@
   <string name="label_smartbar_icon_pack">Paquete de iconas</string>
   <string name="label_smartbar_icon_gallery">Galería</string>
   <string name="label_smartbar_icon_color">Cor</string>
+  <string name="label_smartbar_icon_reset">Restablecer</string>
   <string name="smartbar_editor_toast_starting">Iniciando o editor de navegación</string>
   <string name="smartbar_editor_toast_stopping">Parando o editor de navegación</string>
   <string name="smartbar_editor_toast_unavailable">Editor de navegación non dispoñíbel</string>

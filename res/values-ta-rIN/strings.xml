@@ -17,6 +17,8 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_screenshot">திரைப்பிடிப்பு</string>
+  <string name="label_action_flashlight">விளக்கு</string>
   <!-- Smartbar -->
   <!-- App killed message -->
 </resources>
