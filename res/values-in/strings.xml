@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
   <string name="label_action_no_action">Tidak ada tindakan</string>
-  <string name="label_action_settings_panel">Panel pengaturan</string>
+  <string name="label_action_settings_panel">Panel setelan</string>
   <string name="label_action_notification_panel">Panel pemberitahuan</string>
   <string name="label_action_screenshot">Screenshot</string>
   <string name="label_action_region_screenshot">Menangkap sebagian layar</string>
