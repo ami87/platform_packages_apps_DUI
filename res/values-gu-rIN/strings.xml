@@ -17,6 +17,36 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_no_action">કાર્યવાહી નથી</string>
+  <string name="label_action_settings_panel">સેટિંગ્સ પેનલ</string>
+  <string name="label_action_notification_panel">સૂચના પેનલ</string>
+  <string name="label_action_screenrecord">રેકોર્ડ સ્ક્રીન</string>
+  <string name="label_action_screen_off">સ્ક્રીન બંધ કરો</string>
+  <string name="label_action_force_close_app">એપ્લિકેશનને ફોર્સ બંધ કરો</string>
+  <string name="label_action_search_assistant">શોધ સહાયક</string>
+  <string name="label_action_google_now_on_tap">ગૂગલ નઉ ઓન ટેપ</string>
+  <string name="label_action_voice_search">ધ્વનિ શોધ</string>
+  <string name="label_action_in_app_search">ઇન-એપ્લિકેશન શોધ</string>
+  <string name="label_action_wifi">વાઇફાઇ</string>
+  <string name="label_action_hotspot">હોટસ્પોટ</string>
+  <string name="label_action_last_app">છેલ્લી એપ્લિકેશન</string>
+  <string name="label_action_overview">તાજેતરના</string>
+  <string name="label_action_power_menu">પાવર મેનૂ</string>
+  <string name="label_action_menu">મેનુ</string>
+  <string name="label_action_home">હોમ</string>
+  <string name="label_action_ime_switcher">ઈએમઆઈ બદલો</string>
+  <string name="label_action_stop_screenpinning">સ્ક્રીનને પિન કરવું રોકો</string>
+  <string name="label_action_ime_down">ઇનપુટ પદ્ધતિ કર્સર નીચે</string>
+  <string name="label_action_ime_left">ઇનપુટ પદ્ધતિ કર્સર ડાબે</string>
+  <string name="label_action_ime_right">ઇનપુટ પદ્ધતિ કર્સર જમણે</string>
+  <string name="label_action_ime_up">ઇનપુટ પદ્ધતિ કર્સર ઉપર</string>
+  <string name="label_action_volume_panel">વોલ્યુમ પેનલ</string>
+  <string name="label_action_clear_notifications">સૂચનાઓ સાફ કરો</string>
+  <string name="label_action_editing_smartbar">સ્માર્ટબાર એડિટર</string>
+  <string name="label_action_split_screen">Split screen</string>
+  <string name="label_action_one_handed_mode_left">એક હાથે સ્થિતિ (ડાબી બાજુ)</string>
+  <string name="label_action_one_handed_mode_right">એક હાથે સ્થિતિ (જમણે બાજુ)</string>
+  <string name="label_action_media_left">ગત ટ્રેક</string>
   <!-- Smartbar -->
   <!-- App killed message -->
 </resources>

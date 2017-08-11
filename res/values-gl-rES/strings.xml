@@ -23,13 +23,13 @@
   <string name="label_action_screenshot">Captura de pantalla</string>
   <string name="label_action_region_screenshot">Captura de pantalla parcial</string>
   <string name="label_action_screenrecord">Gravar a pantalla</string>
-  <string name="label_action_expanded_desktop">Escritorio expandido</string>
+  <string name="label_action_expanded_desktop">Escritorio estendido</string>
   <string name="label_action_screen_off">Apagar a pantalla</string>
   <string name="label_action_force_close_app">Forzar peche do aplicativo</string>
   <string name="label_action_search_assistant">Asistente de procura</string>
   <string name="label_action_google_now_on_tap">Google Now ao tocar</string>
   <string name="label_action_voice_search">Procura con voz</string>
-  <string name="label_action_in_app_search">Procura no aplicativo</string>
+  <string name="label_action_in_app_search">Buscar no aplicativo</string>
   <string name="label_action_flashlight">Lanterna</string>
   <string name="label_action_bluetooth">Bluetooth</string>
   <string name="label_action_wifi">WiFi</string>
