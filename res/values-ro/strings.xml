@@ -73,5 +73,5 @@
   <string name="smartbar_editor_toast_unavailable">Editor de navigare indisponibil</string>
   <string name="edit_mode">Modul de editare</string>
   <!-- App killed message -->
-  <string name="app_killed_message">%s terminat</string>
+  <string name="app_killed_message">%s oprită</string>
 </resources>

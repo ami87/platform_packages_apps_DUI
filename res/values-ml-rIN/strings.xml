@@ -19,6 +19,7 @@
   <!-- Bindable action labels -->
   <string name="label_action_screenshot">സ്ക്രീൻഷോട്ട്</string>
   <string name="label_action_flashlight">ടോർച്ച്</string>
+  <string name="label_action_bluetooth">ബ്ലൂടൂത്ത്</string>
   <!-- Smartbar -->
   <!-- App killed message -->
 </resources>
