@@ -25,6 +25,7 @@
   <string name="label_action_screenrecord">Enregistra la pantalla</string>
   <string name="label_action_expanded_desktop">Escriptori Extès</string>
   <string name="label_action_flashlight">Llanterna</string>
+  <string name="label_action_bluetooth">Bluetooth</string>
   <!-- Smartbar -->
   <!-- App killed message -->
 </resources>

@@ -17,8 +17,9 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
-  <string name="label_action_screenshot">স্ক্রীনসর্ট</string>
-  <string name="label_action_flashlight">ফ্লাসলাইট</string>
+  <string name="label_action_screenshot">স্ক্রিনশট</string>
+  <string name="label_action_flashlight">ফ্ল্যাশলাইট</string>
+  <string name="label_action_bluetooth">ব্লুতুথ</string>
   <!-- Smartbar -->
   <string name="label_smartbar_cancel">বাতিল</string>
   <!-- App killed message -->
