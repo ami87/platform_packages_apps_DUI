@@ -53,6 +53,7 @@ import android.content.res.Resources;
 import android.graphics.PixelFormat;
 import android.graphics.Point;
 import android.net.Uri;
+import android.os.Handler;
 import android.os.UserHandle;
 import android.text.TextUtils;
 import android.view.Gravity;
@@ -113,6 +114,8 @@ public class SmartBarEditor extends BaseEditor implements View.OnTouchListener {
     private FrameLayout mEditContainer;
     private View mHidden;
     private Point mOriginPoint = new Point();
+
+    private int mSecondPopupType;
 
     // buttons to animate when changing positions
     private ArrayList<OpaLayout> mSquatters = new ArrayList<>();
@@ -213,6 +216,15 @@ public class SmartBarEditor extends BaseEditor implements View.OnTouchListener {
     };
 
     private void postSecondaryPopup(final int type) {
+        mSecondPopupType = type;
+        final PopupWindow.OnDismissListener listener = new PopupWindow.OnDismissListener() {
+            @Override
+            public void onDismiss() {
+                Handler h = new Handler();
+                h.postDelayed(mShowSecondPopup, 100);
+            }
+        };
+        mPopup.mWindow.setOnDismissListener(listener);
         mHost.removeCallbacks(mHidePopupContainer);
         refreshPopup(type);
     }
@@ -253,6 +265,13 @@ public class SmartBarEditor extends BaseEditor implements View.OnTouchListener {
         final int height = newPopupView.getMeasuredHeight();
         mPopup.mWindow.update(x, (navButtonTopY - height), -1, -1);
     }
+
+    private final Runnable mShowSecondPopup = new Runnable() {
+        @Override
+        public void run() {
+            showPopup(mSecondPopupType);
+        }
+    };
 
     public SmartBarEditor(SmartBarView host) {
         super(host);
