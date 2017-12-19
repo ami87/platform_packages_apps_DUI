@@ -400,6 +400,8 @@ public class SmartBarView extends BaseNavigationBar {
         // Update menu button in case the IME state has changed.
         setMenuVisibility(mShowMenu, true);
         setDisabledFlags(mDisabledFlags, true);
+
+        mBarTransitions.reapplyDarkIntensity();
     }
 
     @Override
